@@ -2345,3 +2345,4 @@ views:
   icon: mdi:robot
   path: automations
   title: Automations
+ var(--background-image)
